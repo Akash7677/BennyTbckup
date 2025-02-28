@@ -4,3 +4,4 @@ openai
 elevenlabs
 pydentic
 python-dotenv
+mangum
